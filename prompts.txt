@@ -1,1 +1,3 @@
 quiero que me digas por favor como usar el "<nav>" y como poder navegar en esos hipervinculos
+explicame por favor como sincronizar el archivo css con el html, ademas de dar ejemplos de que cosas basicas puedo hacer con css
+
